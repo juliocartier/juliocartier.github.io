@@ -1,0 +1,45 @@
+.nav-color{
+	background-color: #1d126f;
+}
+
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.container{
+	margin-top: 50px;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family: 'Lexend Deca', sans-serif;
+}
+
+.color-footer{
+	background-color: #1d126f;
+}
+
+.portfolioImg{
+	border-radius: 120px;
+}
+
+.sobre{
+	background-color: #6c757d !important;
+}
+
+.row{
+	margin-right: 0px;
+    margin-left: 0px;
+}
+
+.conhecimento{
+	background-color: #808b95;
+}
+
+.portfolio{
+	background-color: #9ca5ac;
+}
