@@ -1,5 +1,5 @@
 .nav-color{
-	background-color: #1d126f;
+	background-color: rgb(10, 30, 60);
 }
 
 .container-fluid{
@@ -20,7 +20,7 @@ body{
 }
 
 .color-footer{
-	background-color: #1d126f;
+	background-color: rgb(10, 30, 60) !important;
 }
 
 .portfolioImg{
@@ -28,7 +28,7 @@ body{
 }
 
 .sobre{
-	background-color: #6c757d !important;
+	background-color: rgb(10, 30, 60) !important;
 }
 
 .row{
@@ -37,9 +37,9 @@ body{
 }
 
 .conhecimento{
-	background-color: #808b95;
+	background-color: rgba(24, 65, 14, 0.65);
 }
 
 .portfolio{
-	background-color: #9ca5ac;
+	background-color: rgba(24, 65, 14, 0.75);
 }
